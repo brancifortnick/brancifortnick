@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brancifortnick" alt="brancifortnick" /></a> </p>
 
-- 🔭 I’m currently working on **Battle_Me.-(details tba...)**
+- 🔭 I’m currently working on **Battle_Me - (details tba...) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
