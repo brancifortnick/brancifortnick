@@ -67,6 +67,6 @@
 </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brancifortnick&show_icons=true&locale=en&layout=compact" alt="brancifortnick" /> </p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=brancifortnick&show_icons=true&locale=en&layout=compact" alt="brancifortnick" /> </p>
 
 
