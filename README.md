@@ -1,8 +1,8 @@
 <!-- # [personal_site_status: In Progress...](https://brancifortnick.github.io) -->
 <h1 align="center">Hi there! I'm Nicholas Brancifort</h1>
 <h3 align="center">A Full Stack Software Engineer from New Jersey</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=brancifortnick&label=Profile%20views&color=0e75b6&style=flat" alt="brancifortnick" /> </p>
+<!-- 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=brancifortnick&label=Profile%20views&color=0e75b6&style=flat" alt="brancifortnick" /> </p> -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brancifortnick" alt="brancifortnick" /></a> </p>
 
