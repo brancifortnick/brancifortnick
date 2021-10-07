@@ -4,7 +4,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=brancifortnick&label=Profile%20views&color=0e75b6&style=flat" alt="brancifortnick" /> </p>
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brancifortnick" alt="brancifortnick" /></a> </p> -->
+<!-- <p align="column"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brancifortnick" alt="brancifortnick" /></a> </p> -->
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=brancifortnick&row=1&column=4&rank=S,SS,SSS,SECRET,AA,AAA,B,C" alt="brancifortnick" /></a> </p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
