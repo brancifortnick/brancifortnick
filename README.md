@@ -4,13 +4,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=brancifortnick&label=Profile%20views&color=0e75b6&style=flat" alt="brancifortnick" /> </p>
 
-<!-- <p align="column"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brancifortnick" alt="brancifortnick" /></a> </p> -->
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=brancifortnick&row=1&column=4&rank=S,SS,SSS,SECRET,AA,AAA,B,C" alt="brancifortnick" /></a> </p>
 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/brancifortnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brancifortnick" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/brancifortnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brancifortnick" height="80" width="80" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -65,7 +64,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a> 
 <a href="https://redux.js.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="35" height="35"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
 </a> 
 </p>
 
+<!-- <p align="column"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brancifortnick" alt="brancifortnick" /></a> </p> -->
