@@ -1,8 +1,8 @@
 
 <h1 align="center" src="https://brancifortnick.github.io">Hi there! I'm Nicholas Brancifort</h1>
-<h3 align="center"> Hospitality, full stack engineering and web development </h3>
+<h3 align="center" target="_blank"> Hospitality, full stack engineering and web development </h3>
 <!-- <h4 align='center'>Music, traveling, family, and friends</h4> -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=brancifortnick&label=Profile%20views&color=0e75b6&style=flat" alt="brancifortnick" /> </p>
+<p align="center" target="_blank"> <img src="https://komarev.com/ghpvc/?username=brancifortnick&label=Profile%20views&color=0e75b6&style=flat" alt="brancifortnick" /> </p>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=brancifortnick&row=1&column=4&rank=S,SS,SSS,SECRET,AA,AAA,B,C" alt="brancifortnick" /></a> </p>
 
