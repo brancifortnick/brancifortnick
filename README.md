@@ -1,5 +1,5 @@
 
-<h1 align="center" src="https://brancifortnick.github.io">Hi there! I'm Nicholas Brancifort</h1>
+<h1 align="center" src="https://brancifortnick.github.io">Currently working on a favorite food spot app.<br>  Oh yeah by the way I am Nicholas!</br></h1>
 <h3 align="center" target="_blank"> Hospitality, full stack engineering and web development </h3>
 <!-- <h4 align='center'>Music, traveling, family, and friends</h4> -->
 <p align="center" target="_blank"> <img src="https://komarev.com/ghpvc/?username=brancifortnick&label=Profile%20views&color=0e75b6&style=flat" alt="brancifortnick" /> </p>
