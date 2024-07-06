@@ -1,6 +1,8 @@
 
-<h1 align="center" src="https://brancifortnick.github.io">Currently working on a favorite food spot app.<br>  Oh yeah by the way I am Nicholas!</br></h1>
-<h3 align="center" target="_blank"> Hospitality, full stack engineering and web development </h3>
+<h1 align="center" src="https://brancifortnick.github.io">Currently working on a food related app.<br>Oh yeah by the way I am Nicholas!</br>
+<br>Fancy seeing you here🤦‍♂️🤣</br></h1>
+
+<h3 align="center" target="_blank"> Hospitality && Full Stack interests </h3>
 <!-- <h4 align='center'>Music, traveling, family, and friends</h4> -->
 <p align="center" target="_blank"> <img src="https://komarev.com/ghpvc/?username=brancifortnick&label=Profile%20views&color=0e75b6&style=flat" alt="brancifortnick" /> </p>
 
@@ -13,7 +15,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> 
+<p> <a href="https://getbootstrap.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a> 
 <a href="https://www.chartjs.org" target="_blank"> 
