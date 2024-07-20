@@ -1,6 +1,6 @@
 
 <h1 align="center" src="https://brancifortnick.github.io">Currently working on a food related app.<br>Oh yeah by the way I am Nicholas!</br>
-<br>Fancy seeing you here🤦‍♂️🤣</br></h1>
+<br>Fancy seeing you here- read some codes</br></h1>
 
 <h3 align="center" target="_blank"> Hospitality && Full Stack interests </h3>
 <!-- <h4 align='center'>Music, traveling, family, and friends</h4> -->
