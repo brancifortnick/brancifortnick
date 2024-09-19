@@ -1,8 +1,8 @@
 
 <h1 align="center" src="https://brancifortnick.github.io">Currently working on a food related app.<br>Oh yeah by the way I am Nicholas!</br>
-<br>Fancy seeing you here- read some codes</br></h1>
+<br>Fancy seeing you here - read some codessss</br></h1>
 
-<h3 align="center" target="_blank"> Hospitality && Full Stack interests </h3>
+<h3 align="center" target="_blank"> Hospitality && Full stack thangs </h3>
 <!-- <h4 align='center'>Music, traveling, family, and friends</h4> -->
 <p align="center" target="_blank"> <img src="https://komarev.com/ghpvc/?username=brancifortnick&label=Profile%20views&color=0e75b6&style=flat" alt="brancifortnick" /> </p>
 
