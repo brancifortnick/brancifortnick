@@ -8,7 +8,7 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=brancifortnick&row=1&column=4&rank=S,SS,SSS,SECRET,AA,AAA,B,C" alt="brancifortnick" /></a> </p>
 
-[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D29969%26project%3Dcheesesteaks2 [WSL: Ubuntu-22.04]%26in=0)](https://codetime.dev)
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D29969%26project%3Dcheesesteaks2)](https://codetime.dev)
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/brancifortnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brancifortnick" height="75" width="75" /></a>
