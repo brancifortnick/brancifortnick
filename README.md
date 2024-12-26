@@ -1,6 +1,6 @@
 
-<h1 align="center" src="https://brancifortnick.github.io">Currently working on a food related app.<br>Oh yeah by the way I am Nicholas!</br>
-<br>Fancy seeing you here - read some codessss</br></h1>
+<h1 align="center" src="https://brancifortnick.github.io"></br>
+<br>Fancy seeing you here</br></h1>
 
 <h3 align="center" target="_blank"> Hospitality && Full stack thangs </h3>
 <!-- <h4 align='center'>Music, traveling, family, and friends</h4> -->
@@ -8,7 +8,6 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=brancifortnick&row=1&column=4&rank=S,SS,SSS,SECRET,AA,AAA,B,C" alt="brancifortnick" /></a> </p>
 
-[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D29969%26project%3Dcheesesteaks2)](https://codetime.dev)
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/brancifortnick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brancifortnick" height="75" width="75" /></a>
