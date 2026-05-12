@@ -40,9 +40,6 @@
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brancifortnick&show_icons=true&theme=default&hide_border=true" alt="brancifortnick's GitHub stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brancifortnick&hide_border=true" alt="brancifortnick's streak" />
